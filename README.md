@@ -4,5 +4,4 @@
         <img src="russ_logo_v2.svg" alt="Russ Delos Santos - Software Engineer" />
     </a>
 </p>
-
 </div>
