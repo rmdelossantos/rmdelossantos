@@ -5,10 +5,10 @@
     </a>
 </p>
 </br>
-<ul>
-<li>👋 Hello! I'm Russ.</li>
-<li>💻 I'm a software engineer based in Manila, Philippines.</li>
-<li>🧟 Currently working as a freelancer.</li>
-<li>🎓 Currently a part-time CS grad student at the <a href="https://upd.edu.ph/" target="_blank" rel="noopener">University of the Philippines Diliman.</a></li>
-</ul>
+<div align="center">
+<p>👋 Hello! I'm Russ.</p>
+<p>💻 I'm a software engineer based in Manila, Philippines.</p>
+<p>🧟 Currently working as a freelancer.</p>
+<p>🎓 Currently a part-time CS grad student at the <a href="https://upd.edu.ph/" target="_blank" rel="noopener">University of the Philippines Diliman.</a></p>
+</div>
 </div>
