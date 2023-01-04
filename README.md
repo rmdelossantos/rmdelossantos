@@ -8,7 +8,7 @@
 <ul>
 <li>👋 Hello! I'm Russ.</li>
 <li>💻 I'm a software engineer based in Manila, Philippines.</li>
-<li>🧟 Currently working as an individual contractor.</li>
+<li>🧟 Currently working as a freelancer.</li>
 <li>🎓 Currently a CS grad student at the <a href="https://upd.edu.ph/" target="_blank" rel="noopener">University of the Philippines Diliman.</a></li>
 </ul>
 </div>
