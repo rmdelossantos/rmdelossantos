@@ -8,6 +8,6 @@
 <div align="center">
 <p>👋 Hello! I'm Russ.</p>
 <p>💻 I'm a software engineer based in Manila, Philippines.</p>
-<p>🎓 Currently a part-time CS grad student at the <a href="https://upd.edu.ph/" target="_blank" rel="noopener">University of the Philippines Diliman.</a></p>
+<p>🎓 Currently a part-time CS grad student @ <a href="https://upd.edu.ph/" target="_blank" rel="noopener"> The University of the Philippines Diliman.</a></p>
 </div>
 </div>
